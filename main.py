@@ -129,4 +129,4 @@ bladedycji = tkinter.Label(okno, text="Zadanie wykonane. Nie możesz edytować w
 bladedycji.pack_forget()
 błąd.pack_forget()
 okno.mainloop()
-#endregion
+#endregion 
